@@ -4,7 +4,7 @@ email: jcastle@uga.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is my first year portfolio for the Learning, Design, and Technology doctoral program at the University of Georgia.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://jcastle0.github.io/ldtportfolio" # the base hostname & protocol for your site
 twitter_username: thinknowalls
 github_username:  jcastle0
 
