@@ -13,7 +13,7 @@ Over the course of this year, I have participated in the following research:
 
 **Describing Discussion Data**: For this research, I was able to obtain nearly 250,000 discussion posts made in asynchronous online courses over two years at a large university. My goal with this data is to paint a broad picture of what activity happened in the discussion forums over that time.
 
-*Online Discussions: What is Quality?* This research attempts to have faculty judge contributions to academic online discussions to determine their concept of quality in that setting.
+**Online Discussions: What is Quality?** This research attempts to have faculty judge contributions to academic online discussions to determine their concept of quality in that setting.
 
 ###Conference Presentations
 I have submitted to present about the Describing Discussion Data project at the Distance Teaching and Learning Conference at the University of Madison Wisconsin and at AECT 2016.
