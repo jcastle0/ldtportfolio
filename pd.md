@@ -4,6 +4,7 @@ title: Professional Development Statement
 permalink: /pd/
 ---
 ##Research
+
 I plan for my research in the Learning, Design, and Technology program to focus on student to student interaction in learning environments. During my first year in the program, I have focused primarily on asynchronous online discussions. Over the course of this year, I planned to (a) work to connect theory to my ideas about student to student interactions and learning and (b) continue to bolster my technical skills, particularly as applied to data collection and analysis. I have made progress on both fronts. I have investigated theory in several of the classes I have taken this year (Foundations, Studio, and New Literacies). That investigation of theory has helped me begin to articulate a framework that I hope to build on throughout the program. I have grown my technical skills both through the studio course, and by making my own learning path.
 
 Over the course of this year, I have participated in the following research:
