@@ -9,7 +9,7 @@ twitter_username: thinknowalls
 github_username:  jcastle0
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables", "fenced_code_blocks"]
+markdown: kramdown
+# markdown: redcarpet
+# redcarpet:
+  # extensions: ["tables", "fenced_code_blocks"]
