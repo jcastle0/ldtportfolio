@@ -9,5 +9,10 @@ Given the constraints on my mobility and my background working in central suppor
 
 Some examples of the rypes of positions I would consider include:
 
+## Director of Educational Technology, Vanguard University ([Job Posting](https://drive.google.com/open?id=0BzGBrRPyWKaxc0d6bVBZd29FNE0))
+This type of position would give me the opportunity to be an instructional leader in higher education, working to bring academic aspirations in line with technology usage.
+
 ## Chief Academic Officer, Haralson County School District
 This type of position would situate me as a leader for teaching and learning in a K-12 school district. I would also consider a Chief Technology Office/Chief Information officer role, as the CTO/CAO roles are converging as school districts are beginning to realize they need leaders [with expertise in both areas] (http://www.edweek.org/ew/articles/2013/10/02/06el-cto-side.h33.html).
+
+## Assistant Professor, Tenure Track - Instructional Technology, Georgia College
