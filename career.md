@@ -16,4 +16,4 @@ This type of position would give me the opportunity to be an instructional leade
 This type of position would situate me as a leader for teaching and learning in a K-12 school district. I would also consider a Chief Technology Office/Chief Information officer role, as the CTO/CAO roles are converging as school districts are beginning to realize they need leaders [with expertise in both areas] (http://www.edweek.org/ew/articles/2013/10/02/06el-cto-side.h33.html). [[Job Posting](https://drive.google.com/open?id=0BzGBrRPyWKaxMkN3NU0yXzhfVzg)]
 
 ## Assistant Professor, Tenure Track - Instructional Technology, Georgia College
-[[Job Posting](https://drive.google.com/open?id=0BzGBrRPyWKaxQ3pJRHVTODJVTmM)]
+This is an example of a position that would have a more immediate impact on students through teaching while pursuing my research interests. [[Job Posting](https://drive.google.com/open?id=0BzGBrRPyWKaxQ3pJRHVTODJVTmM)]
