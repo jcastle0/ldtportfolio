@@ -5,3 +5,13 @@ permalink: /cv/
 ---
 
 ## Curriculum Vitae
+
+## Education
+
+## Employment History
+
+## Presentations
+
+## Service
+
+## Professional Licenses
