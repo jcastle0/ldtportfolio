@@ -15,7 +15,7 @@ The broad classification of learner to learner interaction has been part of the 
 3. What is the impact of the design of the discussion prompt on the quality of an asynchronous online discussion?
 4. What teaching practices have the most profound impact on asynchronous online discussions?
 
-It is my goal to inform the design of asynchronous online discussions in order to increase the likelihood that students will create contributions and interactions that contribute positively to the overall learning experience of the class.
+It is my goal to inform the design and practice of asynchronous online discussions in order to increase the likelihood that students will create contributions and interactions that contribute positively to the overall learning experience of the class.
 
 ### References
 
