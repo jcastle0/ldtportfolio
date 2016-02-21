@@ -17,8 +17,9 @@ The broad classification of learner to learner interaction has been part of the 
 
 It is my goal to inform the design of asynchronous online discussions in order to increase the likelihood that students will create contributions and interactions that contribute positively to the overall learning experience of the class.
 
+### References
 
-Abdelmalak, M. M. M. (2015). Web 2.0 technologies and building online learning communities: Students' perspectives. *Online Learning, 19*(2)
+Abdelmalak, M. M. M. (2015). Web 2.0 technologies and building online learning communities: Students' perspectives. *Online Learning, 19*(2), 87-106.
 
 Gunawardena, C. N., Hermans, M. B., Sanchez, D., Richmond, C., Bohley, M., & Tuttle, R. (2009). A theoretical framework for building online communities of practice with social networking tools. *Educational Media International, 46*(1), 3-16. 
 
