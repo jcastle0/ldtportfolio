@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-James Castle 
+James Castle  
 jcastle@uga.edu
 
 ## Education
