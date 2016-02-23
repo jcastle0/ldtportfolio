@@ -72,5 +72,6 @@ Reviewed proposals for AECT 2016 conference.
 Grade 4-12 English  
 July 2005 - Present
 
-**Certified Police Officer, State of Georgia**  
+**Certified Police Officer**  
+State of Georgia  
 November 2002 - Present
