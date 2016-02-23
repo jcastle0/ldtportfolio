@@ -68,7 +68,7 @@ Reviewed proposals for AECT 2016 conference.
 
 ## Professional Licenses
 
-**Georgia Teaching License**
+**Georgia Teaching License**  
 Grade 4-12 English  
 July 2005 - Present
 
