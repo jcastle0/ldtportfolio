@@ -67,3 +67,10 @@ February 2016
 Reviewed proposals for AECT 2016 conference.
 
 ## Professional Licenses
+
+**Georgia Teaching License**
+Grade 4-12 English  
+July 2005 - Present
+
+**Certified Police Officer, State of Georgia**  
+November 2002 - Present
