@@ -55,7 +55,7 @@ Castle, J. (2012, November). *Managing a Curriculum Portal with Google Apps*. Pr
 Castle, J. (2011, November). *Google Apps for Data Teams*. Presented at the Georgia Educational Technology Conference.
 
 ## Workshops
-
+*Innovation in Teaching with Technology Academy: Online Teaching*. Facilitator, The University of Georgia College of Education Workshop Series. Spring 2015.  
 *Collaboration with Google Apps*. Co-Presenter, The University of Georgia Center for Teaching and Learning Pedagogy Workshop. September 2013.  
 *Conducting Asynchronous Online Discussions*. Co-Presenter, The University of Georgia Office of Online Learning Workshop. April 2013.
 
