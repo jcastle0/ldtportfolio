@@ -4,8 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-## Curriculum Vitae
-
 James Castle  
 jcastle@uga.edu
 
