@@ -12,6 +12,8 @@ I am also considering how communication theory can inform my research. In thinki
 
 The transactional perspective of communication builds upon the interactive perspective, characterizing communication as a process by which learners cooperate in order to construct both individualized and contextual knowledge (Richey, Klein, & Tracey, 2010). Campos (2007) describes communication as the process of making sense of both self and the outside world, drawing on the theories of Jean Piaget, Jean-Blaize Grize, and Jürgen Habermas. The construction of knowledge from this perspective shaped by the background and experiences of the participants as they intersect with social and political elements of the context where the communication takes place.
 
+With IRB approval, I am currently conducting research using data from eLC. I was able to use the Valence API to gather all discussion data from online courses over a two year period. Accessing data in this way allows for the flexible and efficient access to and use of data, something that higher education institutions have traditionally struggled with (Long and Siemens, 2011). In all, the dataset consists of approximately 225,000 discussion posts from across approximately 7,500 discussion topics. Using the Python programming language and MongoDB database system, I have been working to analyze these data to look for trends in the nature, volume, and timing of posting. Additionally, I have worked using these data to unpack the impact of role on the nature of discourse in this setting. 
+
 ### Current Research Questions
 
 1. What constitutes an educative contribution to an asynchronous online discussion?
@@ -28,6 +30,8 @@ Abdelmalak, M. M. M. (2015). Web 2.0 technologies and building online learning c
 Campos, M. (2007). Ecology of meanings: A critical constructivist communication model. *Communication Theory, 17*(4), 386-410.
 
 Gunawardena, C. N., Hermans, M. B., Sanchez, D., Richmond, C., Bohley, M., & Tuttle, R. (2009). A theoretical framework for building online communities of practice with social networking tools. *Educational Media International, 46*(1), 3-16.
+
+Long, P. and Siemens, G. (2011). Penetrating the fog: Analytics in learning and education. *Educause Review 46*(5), 31-40.
 
 Richey, R. C., Klein, J. D., & Tracey, M. W. (2010). *The instructional design knowledge base: Theory, research, and practice*. New York: Taylor & Francis.
 
