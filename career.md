@@ -7,7 +7,7 @@ I have spent the past eleven years working in the field of education, first as a
 
 Given the constraints on my mobility and my background working in central support with administrative personnel in both K-12 and higher education, I am also interested in leadership roles within educational institutions. I believe that I could lead such organizations down positive productive path with teaching and learning as the chief consideration for making decisions that affect teachers and students in profound ways.
 
-Some examples of the rypes of positions I would consider include:
+Some examples of the types of positions I would consider include:
 
 ## Director of Educational Technology, Vanguard University
 This type of position would give me the opportunity to be an instructional leader in higher education, working to bring academic aspirations in line with technology usage. [[Job Posting](https://drive.google.com/open?id=0BzGBrRPyWKaxc0d6bVBZd29FNE0)]
