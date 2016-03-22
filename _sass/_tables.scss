@@ -119,80 +119,54 @@ table td {
 }
 
 /*  Removes the border-top from the first row. */
-.table thead:first-child tr th,
-%table thead:first-child tr th,
-.table thead:first-child tr td,
-%table thead:first-child tr td {
+table thead:first-child tr th,
+table thead:first-child tr td {
     border-top: 0;
 }
 
 /*  Adds border-top between two table-body sections. */
-.table tbody + tbody,
-%table tbody + tbody {
+table tbody + tbody {
     border-top: $table-body-border-top;
 }
 
-/*  Reduces cell padding */
-.table-condensed th,
-%table-condensed th,
-.table-condensed td,
-%table-condensed td {
-    padding: $table-condensed-padding;
-}
 
 /* Adds borders and border-radius. */
-.table-bordered,
-%table-bordered {
+table {
     border: $table-bordered-border;
     border-collapse: separate;
     *border-collapse: collapsed;
     border-radius: $table-bordered-border-radius;
 }
 
-.table-bordered th + th,
-%table-bordered th + th,
-.table-bordered td + td,
-%table-bordered td + td,
-.table-bordered th + td,
-%table-bordered th + td,
-.table-bordered td + th,
-%table-bordered td + th {
+table th + th,
+table td + td,
+table th + td,
+table td + th {
     border-left: $table-border-left;
 }
 
-.table-bordered thead:first-child tr:first-child th,
-%table-bordered thead:first-child tr:first-child th,
-.table-bordered tbody:first-child tr:first-child th,
-%table-bordered tbody:first-child tr:first-child th,
-.table-bordered tbody:first-child tr:first-child td,
-%table-bordered tbody:first-child tr:first-child td {
+table thead:first-child tr:first-child th,
+table tbody:first-child tr:first-child th,
+table tbody:first-child tr:first-child td {
     border-top: 0;
 }
 
-.table-bordered thead:first-child tr:first-child th:first-child,
-%table-bordered thead:first-child tr:first-child th:first-child,
-.table-bordered tbody:first-child tr:first-child td:first-child,
-%table-bordered tbody:first-child tr:first-child td:first-child {
+table thead:first-child tr:first-child th:first-child,
+table tbody:first-child tr:first-child td:first-child {
     border-radius: $table-bordered-child-radius 0 0 0;
 }
 
-.table-bordered thead:first-child tr:first-child th:last-child,
-%table-bordered thead:first-child tr:first-child th:last-child,
-.table-bordered tbody:first-child tr:first-child td:last-child,
-%table-bordered tbody:first-child tr:first-child td:last-child {
+table thead:first-child tr:first-child th:last-child,
+table tbody:first-child tr:first-child td:last-child {
     border-radius: 0 $table-bordered-child-radius 0 0;
 }
 
-.table-bordered thead:last-child tr:last-child th:first-child,
-%table-bordered thead:last-child tr:last-child th:first-child,
-.table-bordered tbody:last-child tr:last-child td:first-child,
-%table-bordered tbody:last-child tr:last-child td:first-child {
+table thead:last-child tr:last-child th:first-child,
+table tbody:last-child tr:last-child td:first-child {
     border-radius: 0 0 0 $table-bordered-child-radius;
 }
 
-.table-bordered thead:last-child tr:last-child th:last-child,
-%table-bordered thead:last-child tr:last-child th:last-child,
-.table-bordered tbody:last-child tr:last-child td:last-child,
-%table-bordered tbody:last-child tr:last-child td:last-child {
+table thead:last-child tr:last-child th:last-child,
+table tbody:last-child tr:last-child td:last-child {
     border-radius: 0 0 $table-bordered-child-radius 0;
 }
