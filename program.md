@@ -6,6 +6,7 @@ permalink: /program/
 
 ## Required LDT Courses
 
+<table class="table">
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
 | EDIT 8990               | Fall 2015 / Spring 2016 | In Progress |
@@ -17,6 +18,7 @@ permalink: /program/
 | EDIT 9990 [Doctoral Topical Seminar II] | Spring 2018 |         |
 | EDIT 9000               | Spring 2018, Summer 2018, Fall 2018 | | 
 | EDIT 9300               | Spring 2019             |             |
+</table>
 
 ## Required Research Methods Courses
 
