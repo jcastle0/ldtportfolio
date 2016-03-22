@@ -86,13 +86,11 @@ table {
     max-width: 100%;
     border-collapse: collapse;
     border-spacing: 0;
-    background-color:$table-border-color;
 }
 
 /*  Sets table width to 100%.
  *  Adds bottom-margin. */
-.table,
-%table {
+table {
     width: 100%;
     margin-bottom: $table-margin-bottom;
 }
@@ -100,10 +98,8 @@ table {
 /*  Adds table cell padding,
  *  aligns text to the left,
  *  and adds a top border to each cell. */
-.table th,
-%table th,
-.table td,
-%table td {
+table th,
+table td {
     padding: $table-cell-padding;
     text-align: $table-cell-text-align;
     border-top: $table-cell-border-top;
@@ -111,15 +107,14 @@ table {
 
 /*  Sets table header font-weight to bold.
  *  Aligns table header text to the bottom of each cell. */
-.table th,
-%table th {
+
+table th {
     font-weight: $table-header-font-weight;
     vertical-align: bottom;
 }
 
 /*  Aligns cell text to the top of each cell. */
-.table td,
-%table td {
+table td {
    vertical-align: top;
 }
 
