@@ -6,62 +6,17 @@ permalink: /program/
 
 ## Required LDT Courses
 
-<table class="table">
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Semester</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EDIT 8990</td>
-      <td>Fall 2015 / Spring 2016</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>EDIT 8190</td>
-      <td>Fall 2015 / Spring 2016</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>EDIT 9990 [Foundations]</td>
-      <td>Fall 2015</td>
-      <td>Complete</td>
-    </tr>
-    <tr>
-      <td>EDIT 9990 [Conceptual Framework]</td>
-      <td>Fall 2016</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EDIT 9630</td>
-      <td>Spring 2017</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EDIT 9990 [Doctoral Topical Seminar I]</td>
-      <td>Summer 2017</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EDIT 9990 [Doctoral Topical Seminar II]</td>
-      <td>Spring 2018</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EDIT 9000</td>
-      <td>Spring 2018, Summer 2018, Fall 2018</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>EDIT 9300</td>
-      <td>Spring 2019</td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+| Course                  | Semester                | Status      |
+|-------------------------|-------------------------|-------------|
+| EDIT 8990               | Fall 2015 / Spring 2016 | In Progress |
+| EDIT 8190               | Fall 2015 / Spring 2016 | In Progress |
+| EDIT 9990 [Foundations] | Fall 2015               | Complete    |
+| EDIT 9990 [Conceptual Framework] | Fall 2016      |             |
+| EDIT 9630               | Spring 2017             |             |
+| EDIT 9990 [Doctoral Topical Seminar I] | Summer 2017 |          |
+| EDIT 9990 [Doctoral Topical Seminar II] | Spring 2018 |         |
+| EDIT 9000               | Spring 2018, Summer 2018, Fall 2018 | | 
+| EDIT 9300               | Spring 2019             |             |
 
 ## Required Research Methods Courses
 
