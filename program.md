@@ -17,3 +17,27 @@ permalink: /program/
 | EDIT 9990 [Doctoral Topical Seminar II] | Spring 2018 |         |
 | EDIT 9000               | Spring 2018, Summer 2018, Fall 2018 | | 
 | EDIT 9300               | Spring 2019             |             |
+
+## Required Research Methods Courses
+
+| Course                  | Semester                | Status      |
+|-------------------------|-------------------------|-------------|
+| QUAL 8400               | Summer 2016             |             |
+| ERSH 8310               | Fall 2016               |             |
+| ERSH 8320               | Spring 2017             |             |
+| QUAL 8410               | Summer 2017             |             |
+
+## Cognate Courses
+
+| Course                  | Semester                | Status      |
+|-------------------------|-------------------------|-------------|
+| LLED 7910E              | Spring 2017             | In Progress |
+| Cognate                 | Fall 2017               |             |
+| Cognate                 | Spring 2018             |             |
+
+## LDT Elective Courses
+
+| Course                  | Semester                | Status      |
+|-------------------------|-------------------------|-------------|
+| Elective                | Spring 2017             |             |
+| Elective                | Fall 2017               |             |
