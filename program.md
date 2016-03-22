@@ -35,7 +35,9 @@ permalink: /program/
 | Cognate                 | Fall 2017               |             |
 | Cognate                 | Spring 2018             |             |
 
-## LDT Elective Courses
+I intend to draw on communication as a theme for my cognate courses.
+
+## Elective Courses
 
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
