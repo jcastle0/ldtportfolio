@@ -15,3 +15,5 @@ permalink: /program/
 | EDIT 9630               | Spring 2017             |             |
 | EDIT 9990 [Doctoral Topical Seminar I] | Summer 2017 |          |
 | EDIT 9990 [Doctoral Topical Seminar II] | Spring 2018 |         |
+| EDIT 9000               | Spring 2018, Summer 2018, Fall 2018 | | 
+| EDIT 9300               | Spring 2019             |             |
