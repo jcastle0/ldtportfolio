@@ -6,6 +6,7 @@ permalink: /program/
 
 ## Required LDT Courses
 
+{:.table table-bordered}
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
 | EDIT 8990               | Fall 2015 / Spring 2016 | In Progress |
