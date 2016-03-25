@@ -6,7 +6,6 @@ permalink: /program/
 
 ## Required LDT Courses
 
-{:.table table-bordered}
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
 | EDIT 8990               | Fall 2015 / Spring 2016 | In Progress |
@@ -27,6 +26,8 @@ permalink: /program/
 | ERSH 8310               | Fall 2016               |             |
 | ERSH 8320               | Spring 2017             |             |
 | QUAL 8410               | Summer 2017             |             |
+
+The research class that I took in completing my Ed.S. in Instructional Technology required a research class equivalent to ERSH6300. The course addressed topics such as t-tests, chi-square, correlation values, and analysis of variance (ANOVA).
 
 ## Cognate Courses
 
