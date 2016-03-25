@@ -8,7 +8,7 @@ permalink: /work/
 
 This is a research proposal that I wrote in EDIT9990 for examining faculty perceptions of online discussion postings. This study focuses on using content posted in open communities that facilitate academic-style discourse where the communities provide ratings of the posts to indicate quality. My idea is to have faculty rate those same posts to see if the notion of quality between the two communities is similar.
 
-EDIT9990 Paper with Feedback
+[EDIT9990 Paper with Feedback](https://drive.google.com/file/d/0BzGBrRPyWKaxSy1sU0xiWDIweEU/view?usp=sharing)  
 
 ## EDIT 8190 (Studio) Artifact & IRB Protocol, submitted March 2016
 
