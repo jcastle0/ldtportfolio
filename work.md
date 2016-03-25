@@ -14,10 +14,10 @@ EDIT9990 Paper with Feedback
 
 This is the IRB protocol for the study outlined above. Included is the consent letter, a follow-up interview protocol, a recruitment email, and an example data collection form. The actual prototype data collection mechanism is built using Flask, a server microframework, and MySQL, a common database.
 
-[Consent Letter](https://drive.google.com/open?id=0BzGBrRPyWKaxOW5uN1U0NDYxX3M)
-[Follow-Up Interview Protocol](https://drive.google.com/file/d/0BzGBrRPyWKaxN29FTmdfMURoa2M/view?usp=sharing)
-[Recruitment Email](https://drive.google.com/file/d/0BzGBrRPyWKaxc0l6QUFJVkJLX00/view?usp=sharing)
-[Data Collection Form Example](https://drive.google.com/file/d/0BzGBrRPyWKaxU1podWFpT0JXYmM/view?usp=sharing)
+[Consent Letter](https://drive.google.com/open?id=0BzGBrRPyWKaxOW5uN1U0NDYxX3M)  
+[Follow-Up Interview Protocol](https://drive.google.com/file/d/0BzGBrRPyWKaxN29FTmdfMURoa2M/view?usp=sharing)  
+[Recruitment Email](https://drive.google.com/file/d/0BzGBrRPyWKaxc0l6QUFJVkJLX00/view?usp=sharing)  
+[Data Collection Form Example](https://drive.google.com/file/d/0BzGBrRPyWKaxU1podWFpT0JXYmM/view?usp=sharing)  
 
 ## Discussion Data Analysis
 
