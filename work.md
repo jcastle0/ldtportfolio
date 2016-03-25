@@ -27,6 +27,6 @@ Using the Desire2Learn *Valence* API, I was able to gather all discussion posts 
 
 I submitted to present at AECT2016. My proposal focuses on the mechanics of using an LMS API to extract researchable data (i.e. the process used for the Discussion Data Analysis Section above). I have linked to a copy of my proposal below.
 
-(AECT Proposal)[https://docs.google.com/document/d/1TFmrRrYzYF5dpbL5y1Q8SgdbaLWzMVYsBaz8hlCBgj4/edit?usp=sharing]
+[AECT Proposal](https://docs.google.com/document/d/1TFmrRrYzYF5dpbL5y1Q8SgdbaLWzMVYsBaz8hlCBgj4/edit?usp=sharing)
 
 ## Online Learning Fellows 2016 Faculty Course, Module 2: Pedagogical Design in Online Courses
