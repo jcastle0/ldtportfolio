@@ -33,4 +33,8 @@ I submitted to present at AECT2016. My proposal focuses on the mechanics of usin
 
 As part of my job at the Office of Online Learning, I worked with the design team to revise the professional learning materials for the Online Learning Fellows program. The module that I took lead on dealt with the instructional design in online courses. The goal of the module is to help faculty think through thier instruction in a systematic way so that they can produce a design document that will serve as a roadmap for their course development effort. A screenshot of the module contents is below.
 
+[OLF Course Screenshot](
+https://drive.google.com/file/d/0BzGBrRPyWKaxS2VnYVc5ZkRZb1k/view?usp=sharing
+)
+
 
