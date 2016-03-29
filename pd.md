@@ -19,5 +19,8 @@ I have submitted to present about the Describing Discussion Data project at the 
 ## Teaching
 In my role at the Office of Online Learning, I facilitated two cohorts of Online Learning Fellows. In my role as facilitator, I led the group in several face to face seminar-style meetings, and I served as the instructor for a short online course experience.
 
+## Service
+I reviewed conference proposals for AECT in the *Division of Distance Learning*, *Design and Development* division, and *School & Media Technology* division. 
+
 ## Future Goals
 I would like to become involved in research with members of the Learning, Design, and Technology department. I have explored a few options for becoming involved over the past two semesters, but they have not worked out for a variety of reasons (e.g. time conflicts). Additionally, I would like to participate in the authoring and submission of articles to a variety of journals, for example *TechTrends* and *Educational Technology Research and Development*.
