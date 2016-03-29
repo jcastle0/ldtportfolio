@@ -12,7 +12,7 @@ This is a research proposal that I wrote in EDIT9990 for examining faculty perce
 
 ## EDIT 8190 (Studio) Artifact & IRB Protocol, submitted March 2016
 
-This is the IRB protocol for the study outlined above. Included is the consent letter, a follow-up interview protocol, a recruitment email, and an example data collection form. The actual prototype data collection mechanism is built using Flask, a server microframework, and MySQL, a common database.
+This is the IRB protocol for the study outlined above. Included is the consent letter, a follow-up interview protocol, a recruitment email, and an example data collection form. The actual prototype data collection mechanism is built using Flask, a server micro framework, and MySQL, a common database.
 
 [Consent Letter](https://drive.google.com/open?id=0BzGBrRPyWKaxOW5uN1U0NDYxX3M)  
 [Follow-Up Interview Protocol](https://drive.google.com/file/d/0BzGBrRPyWKaxN29FTmdfMURoa2M/view?usp=sharing)  
@@ -31,7 +31,7 @@ I submitted to present at AECT2016. My proposal focuses on the mechanics of usin
 
 ## Online Learning Fellows 2016 Faculty Course, Module 2: Pedagogical Design in Online Courses
 
-As part of my job at the Office of Online Learning, I worked with the design team to revise the professional learning materials for the Online Learning Fellows program. The module that I took lead on dealt with the instructional design in online courses. The goal of the module is to help faculty think through thier instruction in a systematic way so that they can produce a design document that will serve as a roadmap for their course development effort. A screenshot of the module contents is below.
+As part of my job at the Office of Online Learning, I worked with the design team to revise the professional learning materials for the Online Learning Fellows program. The module that I took lead on dealt with the instructional design in online courses. The goal of the module is to help faculty think through their instruction in a systematic way so that they can produce a design document that will serve as a roadmap for their course development effort. A screenshot of the module contents is below.
 
 [OLF Course Screenshot](
 https://drive.google.com/file/d/0BzGBrRPyWKaxS2VnYVc5ZkRZb1k/view?usp=sharing
