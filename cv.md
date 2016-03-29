@@ -4,7 +4,11 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-James Castle  
+James Castle
+UGA Office of Online Learning
+110 E. Clayton St.
+Athens, GA 30601
+706-357-0048
 jcastle@uga.edu
 
 ## Education
@@ -40,7 +44,7 @@ Supported integration of technology in curriculum from PreK to 12th grade. Condu
 **W.R. Coile Middle School**  
 Middle School Teacher & Head Football Coach  
 July 2005-August 2008  
-Taught interdisciplinary journalism class with a focus on having students demonstrate learning using a variety of digital literacy skills. Worked with local high school to bridge athletic programs in order to ease students' transistion from middle to high school.
+Taught interdisciplinary journalism class with a focus on having students demonstrate learning using a variety of digital literacy skills. Worked with local high school to bridge athletic programs in order to ease students' transition from middle to high school.
 
 **The University of Georgia Police Department**  
 Police Officer  
