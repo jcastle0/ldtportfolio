@@ -4,12 +4,12 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-James Castle
-UGA Office of Online Learning
-110 E. Clayton St.
-Athens, GA 30601
-706-357-0048
-jcastle@uga.edu
+James Castle  
+UGA Office of Online Learning  
+110 E. Clayton St.  
+Athens, GA 30601  
+706-357-0048  
+jcastle@uga.edu  
 
 ## Education
 
@@ -77,3 +77,4 @@ July 2005 - Present
 **Certified Police Officer**  
 State of Georgia  
 November 2002 - Present
+
