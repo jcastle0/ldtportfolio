@@ -14,7 +14,7 @@ permalink: /program/
 | EDIT 9990 [Conceptual Framework] | Fall 2016      | Complete    |
 | EDIT 9630               | Spring 2017             |In Progress  |
 | EDIT 9990 [Doctoral Topical Seminar I] | Summer 2016 | Complete |
-| EDIT 9990 [Doctoral Topical Seminar II] | Spring 2018 |         |
+| EDIT 9990 [Doctoral Topical Seminar II] |         |         |
 | EDIT 9000               | Spring 2018, Summer 2018, Fall 2018 | | 
 | EDIT 9300               | Spring 2019 [GRADUATE]  |             |
 
