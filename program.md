@@ -32,8 +32,8 @@ permalink: /program/
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
 | LLED 7910E (New Literacies) | Spring 2016         | Complete    |
-| Cognate                 | Fall 2017               |             |
-| Cognate                 | Spring 2018             |             |
+| Cognate                 |                         |             |
+| Cognate                 |                         |             |
 
 My cognate theme is *New Literacies in Educational Leadership*
 
