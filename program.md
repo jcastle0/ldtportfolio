@@ -25,14 +25,14 @@ permalink: /program/
 | QUAL 8400               | Fall 2016               | Complete    |
 | ERSH 8310               | Summer 2016             | Complete    |
 | QUAL 8410               | Sprint 2017             |In Progress  |
-|                         |                         |             |
+| QUAL 8547               | Fall 2017               |             |
 
 ## Cognate Courses
 
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
 | LLED 7910E (New Literacies) | Spring 2016         | Complete    |
-| Cognate                 |                         |             |
+| EDHI 8960 (National Datasets) | Summer 2017       |             |
 | Cognate                 |                         |             |
 
 My cognate theme is *New Literacies in Educational Leadership*
@@ -41,5 +41,5 @@ My cognate theme is *New Literacies in Educational Leadership*
 
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
-| Elective                |                         |             |
+| JOUR 7380E (Data Visualization) |                         |             |
 | Elective                |                         |             |
