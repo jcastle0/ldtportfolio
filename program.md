@@ -41,5 +41,5 @@ My cognate theme is *New Literacies in Educational Leadership*
 
 | Course                  | Semester                | Status      |
 |-------------------------|-------------------------|-------------|
-| JOUR 7380E (Data Visualization) |                         |             |
+| JOUR 7380E (Data Gathering & Visualization) | Summer 2017 |             |
 | Elective                |                         |             |
